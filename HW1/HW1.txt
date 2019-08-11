@@ -1,2 +1,2 @@
 Homework 1:
-Logistic Regression
+Linear Regression
