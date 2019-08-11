@@ -1,0 +1,2 @@
+Homework 7:
+This folder contains Python code (Jupyter notebooks) for the following: K-means clustering "from scratch," K-means clustering using scikit-learn, and 
