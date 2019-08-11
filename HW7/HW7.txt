@@ -1,2 +1,5 @@
 Homework 7:
-This folder contains Python code (Jupyter notebooks) for the following: K-means clustering "from scratch," K-means clustering using scikit-learn, and 
+This folder contains Python code (Jupyter notebooks) for the following: 
+- a simple K-means clustering problem, solved "from scratch" 
+- the same simple K-means clustering problem solved using scikit-learn
+- a K-means clustering problem for reducing the number of colors in an image, using scikit-learn
