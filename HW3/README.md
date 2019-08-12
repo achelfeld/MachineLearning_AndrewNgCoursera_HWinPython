@@ -1,0 +1,1 @@
+Homework 3: Classification is solved using sci-kit learn algorithms for logistic regression and neural networks. The accuracy of the training and cross-validation sets are plotted as a function of regularization. 
