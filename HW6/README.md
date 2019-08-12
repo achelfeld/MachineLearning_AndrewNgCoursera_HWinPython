@@ -1,0 +1,1 @@
+Homework 7: A classification problem was solved using the support vector machine (SVM) scikit-learn algorithm. The algorithm was run with different regularization parameters C and several decision boundaries were plotted for different C values.
