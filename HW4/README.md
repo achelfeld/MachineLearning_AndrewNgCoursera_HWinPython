@@ -1,0 +1,1 @@
+Homework 4: A multi-class classification problem (digit classification) is solved using a "from scratch" neural network gradient descent algorithm. The accuracies of the training and cross-validation set classifications were plotted as a function of number of iterations.   
